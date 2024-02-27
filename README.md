@@ -1,5 +1,12 @@
 # multi-agent-systems-formation-control
-Owner: Giulia Ciabatti, PhD 
+
+## Owners: 
+
+Giulia Ciabatti, 
+Leonardo Brizi, 
+Eleonora Chiarantano
+
+
 Implementation of three distributed model predictive control (MPC) methods for formation control of unicycles:
 
 * **Paper A**: M. A. Kamel and Y. Zhang, "Linear model predictive control via feedback linearization for formation control of multiple wheeled mobile robots", 2015 IEEE International Conference on Information and Automation, Lijiang, China, 2015, pp. 1283-1288;
